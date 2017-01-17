@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arcgis-runtime-sdk-for-android-demos.iml" filepath="$PROJECT_DIR$/.idea/modules/arcgis-runtime-sdk-for-android-demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/add-vector-tile-package/add-vector-tile-package.iml" filepath="$PROJECT_DIR$/add-vector-tile-package/add-vector-tile-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arcgis-runtime-sdk-for-android-demos.iml" filepath="$PROJECT_DIR$/arcgis-runtime-sdk-for-android-demos.iml" />
     </modules>
   </component>
 </project>
