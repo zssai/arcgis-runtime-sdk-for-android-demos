@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="portal">
+        <item name="portal_url">https://www.arcgis.com</item>
+        <item name="client_id">jpjUoLOxgqjDVr5W</item>
+        <item name="redirect_uri">zssai-create-map://auth</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">signin-via-oauth2-by-oauthonfigurations</string>
+    <string name="menu_signin">Sign In</string>
+    <string name="menu_signout">Sign Out</string>
+</resources>
