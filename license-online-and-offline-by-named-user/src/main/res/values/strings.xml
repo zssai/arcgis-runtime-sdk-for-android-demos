@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">license-by-named-user</string>
+    <string name="dialog_title">许可离线问询</string>
+    <string name="dialog_yes">是</string>
+    <string name="dialog_no">否</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_message">是否离线至设备上？</string>
+    <string name="master_password">Super123</string>
+    <string name="license_file_name">license.txt</string>
+</resources>

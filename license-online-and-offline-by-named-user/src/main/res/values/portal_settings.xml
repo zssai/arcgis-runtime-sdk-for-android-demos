@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="portal_url">https://www.arcgis.com</string>
+    <string name="user_name">zssai201701</string>
+    <string name="user_password">Super123</string>
+</resources>
