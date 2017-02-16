@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">signin-via-oauth2-by-oauthloginmanager</string>
+    <string name="basemap_url">https://cache1.arcgisonline.cn/ArcGIS/rest/services/ChinaOnlineCommunity/MapServer</string>
+    <string name="user_login">Not Logged In</string>
+</resources>
