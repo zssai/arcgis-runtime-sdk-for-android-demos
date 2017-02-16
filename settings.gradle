@@ -1,1 +1,1 @@
-include ':add-vector-tile-package',':license-online-and-offline-by-named-user',':license-online-by-named-user',':signin-via-oauth2-by-oauthloginmanager',':signin-via-oauth2-by-oauthonfigurations'
+include ':add-vector-tile-package', ':signin-via-oauth2-by-oauthloginmanager', ':signin-via-oauth2-by-oauthonfigurations', ':license-online-and-offline-by-named-user', ':license-online-by-named-user'
