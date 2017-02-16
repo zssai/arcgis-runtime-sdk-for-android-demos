@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/add-vector-tile-package/add-vector-tile-package.iml" filepath="$PROJECT_DIR$/add-vector-tile-package/add-vector-tile-package.iml" />
       <module fileurl="file://$PROJECT_DIR$/arcgis-runtime-sdk-for-android-demos.iml" filepath="$PROJECT_DIR$/arcgis-runtime-sdk-for-android-demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/license-online-and-offline-by-named-user/license-online-and-offline-by-named-user.iml" filepath="$PROJECT_DIR$/license-online-and-offline-by-named-user/license-online-and-offline-by-named-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/license-online-by-named-user/license-online-by-named-user.iml" filepath="$PROJECT_DIR$/license-online-by-named-user/license-online-by-named-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/signin-via-oauth2-by-oauthloginmanager/signin-via-oauth2-by-oauthloginmanager.iml" filepath="$PROJECT_DIR$/signin-via-oauth2-by-oauthloginmanager/signin-via-oauth2-by-oauthloginmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/signin-via-oauth2-by-oauthonfigurations/signin-via-oauth2-by-oauthonfigurations.iml" filepath="$PROJECT_DIR$/signin-via-oauth2-by-oauthonfigurations/signin-via-oauth2-by-oauthonfigurations.iml" />
     </modules>
   </component>
 </project>

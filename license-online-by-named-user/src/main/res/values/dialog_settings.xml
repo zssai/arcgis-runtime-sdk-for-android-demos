@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_portal_url">Specify the URL to your organization or your portal：</string>
+    <string name="tv_nameduser_name">Username：</string>
+    <string name="tv_nameduser_password">Password：</string>
+    <string name="et_portal_url">https://www.arcgis.com</string>
+    <string name="et_nameduser_name">zssai201701</string>
+    <string name="et_nameduser_password">Super123</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="diag_title">授权您的应用程序</string>
+</resources>
